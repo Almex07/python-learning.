@@ -10,7 +10,8 @@ with a longer-term interest in AI/ML engineering.
 ## Side project
 **ORION** — an experimental local AI assistant (local models,  
 memory, tool use, quality measurement). Status: prototype.  
-Public code will appear once it is cleaned up and tested.
+Public code will appear once it is cleaned up and tested.  
+Read the [ORION project overview](orion/README.md).
 
 ## How I work
 I write down what I tried, what broke and what I learned.  
